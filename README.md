@@ -4,7 +4,7 @@ A deep learning approach that uses a Gated Residual Network (GRN) and Gate Linea
 
 A sample of 81K trips is provided for each of the NYC and Chengdu Taxi datasets in folders (NYC Data, Chengdu Data).
 
-The data samples are already pre-processed (Data Cleaning, Feature Engineering, ...etc) and randomly splitted into train (X_train, Y_train), validation (X_val, Y_val), and test (X_test, Y_test).
+The data samples are already pre-processed (Data Cleaning, Feature Engineering,... etc) and randomly split into train (X_train, Y_train), validation (X_val, Y_val), and test (X_test, Y_test).
 
 The implementation of the prediction model for each dataset is given in a separate jupyter notebook (GSTA on NYC.ipynb, and GSTA on Chengdu.ipynb).
 
