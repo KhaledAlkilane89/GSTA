@@ -9,4 +9,10 @@ The sample data is already pre-processed and randomly splitted into train (X_tra
 
 We have implemented the prediction model for each dataset in a separate jupyter notebook (GSTA on NYC, and GSTA on Chengdu).
 
-We have used Keras version 2.4.3 and Tensorflow version 2.3.0.
+The dependens Libraries are:
+Keras 2.4.3 
+Tensorflow 2.3.0
+bokeh 2.2.1
+Numpy 1.19.3
+Pandas 1.1.5
+Sklearn
