@@ -1,4 +1,4 @@
-# GSTA
+# GSTA for travel time prediction
 A deep learning approach for predicting Travel Times.
 
 This code is an implemnetaion of the paper titled "GSTA: Gated Spatial-Temporal Attention Approach for Travel Time Prediction".
