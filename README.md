@@ -1,4 +1,4 @@
-# GSTA for travel time prediction
+# GSTA: Gated Spatial-Temporal Attention Approach for Travel Time Prediction
 
 A deep learning approach to predict travel times.
 
