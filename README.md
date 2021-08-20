@@ -15,4 +15,4 @@ Tensorflow 2.3.0
 bokeh 2.2.1
 Numpy 1.19.3
 Pandas 1.1.5
-Sklearn
+Sklearn.
