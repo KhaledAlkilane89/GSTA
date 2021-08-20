@@ -1,6 +1,6 @@
 # GSTA: Gated Spatial-Temporal Attention Approach for Travel Time Prediction
 
-A deep learning approach to predict travel times.
+A deep learning approach that uses a Gated Residual Network (GRN) and Gate Linear Unit (GLU) with Multi-Head attention and Feature Selection Module (FS) to predict travel times.
 
 A sample of 81K trips is provided for each of the NYC and Chengdu Taxi datasets in folders (NYC Data, Chengdu Data).
 
