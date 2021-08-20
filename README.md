@@ -4,13 +4,13 @@ A deep learning approach to predict travel times.
 
 This code is an implemnetaion of the paper titled "GSTA: Gated Spatial-Temporal Attention Approach for Travel Time Prediction".
 
-We have provided a sample of 81K trips for each of the NYC and Chengdu Taxi datasets.
+A sample of 81K trips is provided for each of the NYC and Chengdu Taxi datasets in folders (NYC Data, Chengdu Data).
 
-The sample data is already pre-processed and randomly splitted into train (X_train, Y_train), validation (X_val, Y_val), and test (X_test, Y_test).
+The data samples are already pre-processed (Data Cleaning, Feature Engineering, ...etc) and randomly splitted into train (X_train, Y_train), validation (X_val, Y_val), and test (X_test, Y_test).
 
-We have implemented the prediction model for each dataset in a separate jupyter notebook (GSTA on NYC, and GSTA on Chengdu).
+The implementation of the prediction model for each dataset is given in a separate jupyter notebook (GSTA on NYC.ipynb, and GSTA on Chengdu.ipynb).
 
-The dependent libraries are:
+The dependent needed libraries are:
 
 Keras 2.4.3
 
