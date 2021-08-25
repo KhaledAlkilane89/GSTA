@@ -24,7 +24,7 @@ The best model for each data during training phase is saved to folder "Models" a
 
 # Data sample
 Each data sample is a CSV file. The key contains: <br />
-*  Location Features: 'pickup_longitude', 'pickup_latitude', 'dropoff_longitude', 'dropoff_latitude', 'center_latitude', 'center_longitude','dropoff_pca0', 'dropoff_pca1', 'pickup_pca0', 'pickup_pca1'
+*  Location Features: 'pickup_longitude', 'pickup_latitude', 'dropoff_longitude', 'dropoff_latitude', 'center_latitude', 'center_longitude', 'dropoff_pca0', 'dropoff_pca1', 'pickup_pca0', 'pickup_pca1'
 *  Cluster Features: 'pickup_cluster', 'dropoff_cluster', 'pickup_counts_on_clusterid', 'dropoff_counts_on_clusterid' 
 *  Geo-hash Features: 'pickup_geohash', 'dropoff_geohash'
 *  Date/Time Features: 'DayofMonth_sin', 'DayofMonth_cos', 'Hour_sin', 'Hour_cos', 'dayofweek_sin', 'dayofweek_cos', 'Weekend_day', 'Work_day'
