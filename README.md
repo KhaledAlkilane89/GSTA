@@ -34,7 +34,7 @@ The default parameters are:
 10- kernel_initializer="he_uniform"
 
 # Best Model
-The best model for each data during training phase is saved to folder "Models" as h5 file.
+The best model for each data during training phase is saved to folder "Models" as hdf5 file.
 
 # Data sample
 Each data sample is a CSV file. The key contains:
