@@ -9,6 +9,8 @@ The data samples are already pre-processed (Data Cleaning, Feature Engineering,.
 The implementation of the prediction model for each dataset is given in a separate jupyter notebook (GSTA on NYC.ipynb, and GSTA on Chengdu.ipynb).
 
 # Parameters:
+The default parameters are: (These parameteres are tuned with whole dataset, you can change them manually)
+
 1- optimizer=Adam(lr=0.001).
 
 2- loss='mean_absolute_error'
@@ -29,7 +31,9 @@ The implementation of the prediction model for each dataset is given in a separa
 
 10- kernel_initializer="he_uniform"
 
-# Data sample is a CSV file. The key contains:
+# Data sample
+Each data sample is a CSV file. The key contains:
+* 
 
 
 # Dependent libraries:
