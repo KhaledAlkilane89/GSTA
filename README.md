@@ -9,7 +9,9 @@ The data samples are already pre-processed (Data Cleaning, Feature Engineering,.
 The implementation of the prediction model for each dataset is given in a separate jupyter notebook (GSTA on NYC.ipynb, and GSTA on Chengdu.ipynb).
 
 # Parameters:
-The default parameters are: (These parameteres are tuned with whole dataset, you can change them manually)
+(These parameteres are tuned with whole dataset, you can change them manually)
+
+The default parameters are:
 
 1- optimizer=Adam(lr=0.001).
 
