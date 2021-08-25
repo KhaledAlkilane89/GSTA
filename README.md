@@ -7,17 +7,17 @@
 # Parameters:
 (These parameteres are tuned with whole dataset, you can change them manually)<br />
 The default parameters are: <br />
-1- optimizer=Adam(lr=0.001).  <br />
-2- loss='mean_absolute_error' <br />
-3- metrics=['mae','mape'] <br />
-4- Dropout=0.2 <br />
-5- epochs = 50 <br />
-6- batch_size = 256 <br />
-7- kernel_regularizer=l2(0.001) <br />
-8- Activation('elu') <br />
-9- BatchNormalization(epsilon=1e-06, momentum=0.98) <br />
-10- kernel_initializer="he_uniform" <br />
-11- num_heads = 4  , which is the number of heads in Multi-Head attention. 
+- optimizer=Adam(lr=0.001).  
+- loss='mean_absolute_error' 
+- metrics=['mae','mape'] 
+- Dropout=0.2 
+- epochs = 50 
+- batch_size = 256 
+- kernel_regularizer=l2(0.001) 
+- Activation('elu')
+- BatchNormalization(epsilon=1e-06, momentum=0.98) 
+- kernel_initializer="he_uniform"
+- num_heads = 4  , which is the number of heads in Multi-Head attention. 
 
 # Best Model
 The best model for each data during training phase is saved to folder "Models" as hdf5 file.
