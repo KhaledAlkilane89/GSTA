@@ -8,18 +8,22 @@ The data samples are already pre-processed (Data Cleaning, Feature Engineering,.
 
 The implementation of the prediction model for each dataset is given in a separate jupyter notebook (GSTA on NYC.ipynb, and GSTA on Chengdu.ipynb).
 
+# Parameters:
+1- optimizer=Adam(lr=0.001).
+2- loss='mean_absolute_error'
+3- metrics=['mae','mape']
+4- Dropout=0.2
+5- epochs = 50
+6- batch_size = 256
+7- kernel_regularizer=l2(0.001)
+8- Activation('elu')
+9- BatchNormalization(epsilon=1e-06, momentum=0.98)
+10- kernel_initializer="he_uniform"
+
 The dependent needed libraries are:
 
-Keras 2.4.3
+Keras 2.4.3, Tensorflow 2.3.0, Bokeh 2.2.1, Numpy 1.19.3, Pandas 1.1.5, Sklearn.
 
-Tensorflow 2.3.0
-
-Bokeh 2.2.1
-
-Numpy 1.19.3
-
-Pandas 1.1.5
-
-Sklearn
+# Each sample is a json string. The key contains:
 
 
