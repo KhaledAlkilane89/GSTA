@@ -33,6 +33,8 @@ The default parameters are:
 
 10- kernel_initializer="he_uniform"
 
+11- num_heads = 4  , which is the number of heads in Multi-Head attention.
+
 # Best Model
 The best model for each data during training phase is saved to folder "Models" as hdf5 file.
 
