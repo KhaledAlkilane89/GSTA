@@ -37,7 +37,7 @@ Each data sample is a CSV file. The key contains: <br />
 *  Peak period: 'Peak_Hour'
 *  Travel Time: 'trip_duration'
 
-# Dependent libraries:
+# Dependencies:
 Keras 2.4.3, Tensorflow 2.3.0, Bokeh 2.2.1, Numpy 1.19.3, Pandas 1.1.5, Sklearn.
 
 
