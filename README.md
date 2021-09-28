@@ -46,6 +46,7 @@ Keras 2.4.3, Tensorflow 2.3.0, Bokeh 2.2.1, Numpy 1.19.3, Pandas 1.1.5, Sklearn.
 # BibTeX Citation
 If you use GSTA in a scientific publication, we would appreciate using the following citations:
 
+```
 @article{Khaled2021,
 author = {Khaled, Alkilane and Elsir, Alfateh M Tag and Shen, Yanming},
 doi = {10.1007/s00521-021-06560-z},
@@ -55,6 +56,7 @@ title = {{GSTA: gated spatial–temporal attention approach for travel time pred
 url = {https://doi.org/10.1007/s00521-021-06560-z},
 year = {2021}
 }
+```
 
 
 
