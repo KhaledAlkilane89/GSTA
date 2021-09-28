@@ -1,7 +1,7 @@
 # GSTA
 - The source code and data of the paper ["GSTA: gated spatial–temporal attention approach for travel time prediction"](https://doi.org/10.1007/s00521-021-06560-z)
 <img
-src=“images/Model_Architecture.png”
+src=“Images/Model_Architecture.png”
 raw=true
 alt=“GSTA Architecture”
 style=“margin-right: 10px;”
