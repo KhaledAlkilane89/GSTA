@@ -38,8 +38,9 @@ The default parameters are: <br />
 - num_heads = 4  , which is the number of heads in Multi-Head attention. 
 
 # Results
-![GSTA Architecture](Images/NYC_Predictions.png)
-![GSTA Architecture](Images/Chengdu_Predictions.png)
+![NYC_Predictions](Images/NYC_Predictions.png)
+![Chengdu_Predictions](Images/Chengdu_Predictions.png)
+![Abnormal_Weather_Predictions_NYC](Images/Abnormal_Weather_Predictions_NYC.png)
 
 # Best Model
 The best model for each data during training phase is saved to folder "Models" as hdf5 file.
