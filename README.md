@@ -1,5 +1,6 @@
 # GSTA
 - The source code and data of the paper ["GSTA: gated spatial–temporal attention approach for travel time prediction"](https://doi.org/10.1007/s00521-021-06560-z)
+# Data
 - A sample of 81K trips is provided for each of the NYC and Chengdu Taxi datasets in folders (NYC Data, Chengdu Data). 
 - The data samples are already pre-processed (Data Cleaning, Feature Engineering,... etc) and randomly split into train (X_train, Y_train), validation (X_val, Y_val), and test (X_test, Y_test). 
 - The implementation of the prediction model for each dataset is given in a separate jupyter notebook (GSTA on NYC.ipynb, and GSTA on Chengdu.ipynb).
