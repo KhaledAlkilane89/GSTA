@@ -37,6 +37,10 @@ The default parameters are: <br />
 - kernel_initializer="he_uniform"
 - num_heads = 4  , which is the number of heads in Multi-Head attention. 
 
+# Results
+![GSTA Architecture](Images/NYC_Predictions.png)
+![GSTA Architecture](Images/Chengdu_Predictions.png)
+
 # Best Model
 The best model for each data during training phase is saved to folder "Models" as hdf5 file.
 
