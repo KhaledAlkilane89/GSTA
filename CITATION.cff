@@ -8,6 +8,7 @@ authors:
 - family-names: "Yanming"
   given-names: "Shen"
 title: "GSTA: gated spatial–temporal attention approach for travel time prediction"
+version: 2.0.4
 doi: 10.1007/s00521-021-06560-z
 url: "https://doi.org/10.1007/s00521-021-06560-z"
 preferred-citation:
@@ -15,10 +16,10 @@ preferred-citation:
   authors:
   - family-names: "Alkilane"
     given-names: "Khaled"
- - family-names: "Elsir"
-   given-names: "Alfateh M Tag"
- - family-names: "Yanming"
-   given-names: "Shen"
+  - family-names: "Elsir"
+    given-names: "Alfateh M Tag"
+  - family-names: "Yanming"
+    given-names: "Shen"
   doi: "10.1007/s00521-021-06560-z"
   journal: "Neural Computing and Applications"
   title: "GSTA: gated spatial–temporal attention approach for travel time prediction"
