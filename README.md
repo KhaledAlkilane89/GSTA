@@ -44,7 +44,7 @@ The best model for each data during training phase is saved to folder "Models" a
 Keras 2.4.3, Tensorflow 2.3.0, Bokeh 2.2.1, Numpy 1.19.3, Pandas 1.1.5, Sklearn.
 
 # BibTeX Citation
-If you use GSTA in a scientific publication, we would appreciate using the following citations:
+If you use our paper in a scientific publication, we would appreciate using the following citations:
 
 ```
 @article{Khaled2021,
