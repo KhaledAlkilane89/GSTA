@@ -1,6 +1,7 @@
 # GSTA
 - The source code and data of the paper ["GSTA: gated spatial–temporal attention approach for travel time prediction"](https://doi.org/10.1007/s00521-021-06560-z)
-![Test Image 3](Images/Model_Architecture.png)
+- <br />
+![GSTA Architecture](Images/Model_Architecture.png)
 
 # Data
 - A sample of 81K trips is provided for each of the NYC and Chengdu Taxi datasets in folders (NYC Data, Chengdu Data). 
