@@ -65,18 +65,7 @@ url = {https://doi.org/10.1007/s00521-021-06560-z},
 year = {2021}
 }
 ```
-```
-@article{Khaled_2021,
-	doi = {10.1007/s00521-021-06560-z},
-	url = {https://doi.org/10.1007%2Fs00521-021-06560-z},
-	year = 2021,
-	month = {sep},
-	publisher = {Springer Science and Business Media {LLC}},
-	author = {Alkilane Khaled and Alfateh M. Tag Elsir and Yanming Shen},
-	title = {{GSTA}: gated spatial{\textendash}temporal attention approach for travel time prediction},
-	journal = {Neural Computing and Applications}
-}
-```
+
 
 
 
